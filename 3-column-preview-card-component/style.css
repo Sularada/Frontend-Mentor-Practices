@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+
+
+:root {
+    --primary-bright-orange: hsl(31, 77%, 52%);
+    --primary-dark-cyan: hsl(184, 100%, 22%);
+    --primary-dark-very-cyan: hsl(179, 100%, 13%);
+
+    --neutral-transparent-white: hsla(0, 0%, 100%, 0.75);
+    --neutral-very-light-gray: hsl(0, 0%, 95%);
+
+    --font-family-big-shoulders-display: 'Big Shoulders Display', cursive;
+    --font-family-lexend-deca: 'Lexend Deca', sans-serif;
+}
+
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-family-lexend-deca);
+    font-size: 15px;
+}
+
+main {
+    padding: 90px 20px;
+    background-color: var(--neutral-very-light-gray);
+}
+
+.cars {
+    display: grid;
+    grid-template-columns: 1fr;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.cars .car {
+    padding: 50px;
+}
+
+.cars .sedan {
+    background-color: var(--primary-bright-orange);
+}
+
+.cars .img {}
+
+.cars .img img {
+    width: 60px;
+}
+
+.cars .text {
+    margin-bottom: 50px;
+}
+
+.cars .text h2 {
+    color: var(--neutral-very-light-gray);
+    font-family: var(--font-family-big-shoulders-display);
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin: 25px 0;
+}
+
+.cars .text p {
+    color: var(--neutral-transparent-white);
+    line-height: 25px;
+    font-size: .8rem;
+}
+
+.cars .sedan a {
+    color: var(--primary-bright-orange);
+}
+
+.cars a {
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 30px;
+    background-color: var(--neutral-very-light-gray);
+}
+
+.cars .suv {
+    background-color: var(--primary-dark-cyan);
+}
+
+.cars .suv a {
+    color: var(--primary-dark-cyan);
+}
+
+.cars .luxury {
+    background-color: var(--primary-dark-very-cyan);
+}
+
+.cars .luxury a {
+    color: var(--primary-dark-very-cyan);
+}
+
+.cars a:hover {
+    border: 2px solid var(--neutral-very-light-gray);
+    background-color: transparent;
+    color: var(--neutral-very-light-gray);
+}
+
+@media only screen and (min-width: 770px) {
+    main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+
+    .cars {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        max-width: 1100px;
+    }
+
+    .cars .text {
+        margin-bottom: 100px;
+    }
+
+}
