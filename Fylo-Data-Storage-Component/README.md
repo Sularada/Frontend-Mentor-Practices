@@ -1,1 +1,1 @@
-Live URL: https://sularada.github.io/Fylo-Data-Storage-Component/
+Live URL: https://sularada.github.io/Frontend-Mentor-Practices/Fylo-Data-Storage-Component/

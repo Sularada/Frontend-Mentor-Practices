@@ -1,1 +1,1 @@
-Live URL: https://sularada.github.io/Four-Card-Feature-Section/
+Live URL: https://sularada.github.io/Frontend-Mentor-Practices/Four-Card-Feature-Section/

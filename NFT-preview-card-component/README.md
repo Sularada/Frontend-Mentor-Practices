@@ -1,1 +1,1 @@
-Live URL: https://sularada.github.io/NFT-preview-card-component/
+Live URL: https://sularada.github.io/Frontend-Mentor-Practices/NFT-preview-card-component/

@@ -1,1 +1,1 @@
-Live URL: https://sularada.github.io/Social-Proof-Section/ 
+Live URL: https://sularada.github.io/Frontend-Mentor-Practices/Social-Proof-Section/

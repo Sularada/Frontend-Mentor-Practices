@@ -1,1 +1,1 @@
-Live URL: https://sularada.github.io/Fylo-Landing-Page-With-Two-Column-Layout/
+Live URL: https://sularada.github.io/Frontend-Mentor-Practices/Fylo-Landing-Page-With-Two-Column-Layout/

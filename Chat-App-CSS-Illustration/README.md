@@ -1,1 +1,1 @@
-Live URL: https://sularada.github.io/Chat-App-CSS-Illustration/
+Live URL: https://sularada.github.io/Frontend-Mentor-Practices/Chat-App-CSS-Illustration/

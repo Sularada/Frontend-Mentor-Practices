@@ -1,1 +1,1 @@
-Live URL: https://sularada.github.io/Single-Price-Grid-Component/
+Live URL: https://sularada.github.io/Frontend-Mentor-Practices/Single-Price-Grid-Component/

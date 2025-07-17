@@ -1,1 +1,1 @@
-Live URL: https://sularada.github.io/QR-Code-Component/
+Live URL: https://sularada.github.io/Frontend-Mentor-Practices/QR-Code-Component/
